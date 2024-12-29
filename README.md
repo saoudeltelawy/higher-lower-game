@@ -45,5 +45,5 @@ A Python implementation of the classic "Higher Lower" game where players compare
    cd higher-lower-game
 
 3.	Run the game:
-  ```bash
+   ```bash
    python higher_lower_game.py
